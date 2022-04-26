@@ -1,6 +1,6 @@
 {
   "pageTitle": {
-    "ipfs": "IPFS Share",
+    "ipfs": "Cybermint Share",
     "add": "Share Files",
     "download": "Download Files"
   },
@@ -8,7 +8,7 @@
   "footer": "Licensed <1>CC-BY 3.0</1> except as <3>noted</3>",
   "info": {
     "add": {
-      "title": "Share files using IPFS",
+      "title": "Share files using Cybermint IPFS",
       "subtitle": "Share directly from your device — no cloud needed.",
       "labelAdd": "Add your files",
       "copyAdd": "Add files to share them directly from your device over the IPFS network. Anyone with the unique code in your share link can download your files, so don't add sensitive or copyrighted material.",
