@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "start": "react-scripts start",
-    "prebuild": "p config/webpack.config.prod.js node_modules/react-scripts/config/ && lol public/locales > src/lib/languages.json",
+    "prebuild": "cp config/webpack.config.prod.js node_modules/react-scripts/config/ && lol public/locales > src/lib/languages.json",
     "build": "react-scripts build",
     "build:icons": "svgr -d src/icons node_modules/ipfs-css/icons && eslint --fix src/icons/*",
     "lint": "eslint --ignore-path .gitignore .",
