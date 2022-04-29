@@ -1,6 +1,6 @@
 #!/bin/env bash
 
-ALLOW_ORIGINS='"http://localhost:3000", "https://share.ipfs.io"'
+ALLOW_ORIGINS='"http://localhost:3000", "https://web3.storage"'
 
 # stop executing if anything fails
 set -e
