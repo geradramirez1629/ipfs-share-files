@@ -15,9 +15,9 @@
       "labelKeepPage": "Keep this page open!",
       "labelKeepDaemon": "Keep your Cybermint Send node running!",
       "copyKeepPage": "Because you're sharing directly from your device, it's important to keep this page open until the recipient downloads the files. If you're sharing with a group, others in the group can help you co-host the files by also keeping the share page open in their browsers.",
-      "copyKeepDaemon": "Because you're sharing directly from your device, it's important to keep your IPFS node running until the recipient downloads the files. If you're sharing with a group, anyone in the group can help co-host the files by keeping the share page open in their browser, or if they're running an IPFS Cybermint node, pinning the content identifier (CID) from your share link to their node.",
+      "copyKeepDaemon": "Because you're sharing directly from your device, it's important to keep your IPFS node running until the recipient downloads the files. If you're sharing with a group, anyone in the group can help co-host the files by keeping the share page open in their browser, or if they're running an Cybermint Send node, pinning the content identifier (CID) from your share link to their node.",
       "labelSend": "Share the link",
-      "copySend": "Every share link contains a unique fingerprint called a CID that enables the recipient's device to find that content on the IPFS Cybermint network."
+      "copySend": "Every share link contains a unique fingerprint called a CID that enables the recipient's device to find that content on the Cybermint Send network."
     },
     "download": {
       "title": "You've got files!",
@@ -41,7 +41,7 @@
     "how": {
       "title": "How Cybermint Send works",
       "ariaLabel": "Modal explaining how Cybermint Send works",
-      "copy": "IPFS CYbermint Share is a simple, free way to share files without needing to rely on services run by big corporations. Instead, it uses the peer-to-peer IPFS protocol for sharing directly between devices. IPFS is built around content addressing — keeping track of files based on what they contain, not where they're located — which means that files can't be modified without changing their addresses too. In other words, when you download a file using IPFS, you can be sure that it's exactly the same as the sender intended.",
+      "copy": "Cvbermint Send is a simple, free way to share files without needing to rely on services run by big corporations. Instead, it uses the peer-to-peer IPFS protocol for sharing directly between devices. IPFS is built around content addressing — keeping track of files based on what they contain, not where they're located — which means that files can't be modified without changing their addresses too. In other words, when you download a file using IPFS, you can be sure that it's exactly the same as the sender intended.",
       "learnMore": "Learn how Cybermint Send is changing the internet by visiting the <1>IPFS website</1>. Curious about how content addressing works? Visit <3>ProtoSchool</3> for tutorials and other resources."
     },
       "reprovide": {
