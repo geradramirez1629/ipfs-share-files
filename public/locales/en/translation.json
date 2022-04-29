@@ -1,19 +1,19 @@
 {
   "pageTitle": {
-    "ipfs": "Cybermint Share",
+    "ipfs": "Cybermint Send",
     "add": "Share Files",
     "download": "Download Files"
   },
-  "header": "Cybermint Share",
-  "footer": "Cybermint Share",
+  "header": "Cybermint Send",
+  "footer": "Cybermint Send",
   "info": {
     "add": {
-      "title": "Share files using IPFS Cybermint",
+      "title": "Share files using Cybermint Send",
       "subtitle": "Share directly from your device — no cloud needed.",
       "labelAdd": "Add your files",
-      "copyAdd": "Add files to share them directly from your device over the IPFS Cybermint network. Anyone with the unique code in your share link can download your files, so don't add sensitive or copyrighted material.",
+      "copyAdd": "Add files to share them directly from your device over the Cybermint Send network. Anyone with the unique code in your share link can download your files, so don't add sensitive or copyrighted material.",
       "labelKeepPage": "Keep this page open!",
-      "labelKeepDaemon": "Keep your Cybermint Share node running!",
+      "labelKeepDaemon": "Keep your Cybermint Send node running!",
       "copyKeepPage": "Because you're sharing directly from your device, it's important to keep this page open until the recipient downloads the files. If you're sharing with a group, others in the group can help you co-host the files by also keeping the share page open in their browsers.",
       "copyKeepDaemon": "Because you're sharing directly from your device, it's important to keep your IPFS node running until the recipient downloads the files. If you're sharing with a group, anyone in the group can help co-host the files by keeping the share page open in their browser, or if they're running an IPFS Cybermint node, pinning the content identifier (CID) from your share link to their node.",
       "labelSend": "Share the link",
@@ -22,8 +22,8 @@
     "download": {
       "title": "You've got files!",
       "subtitle": "Download directly from the sender — no cloud needed.",
-      "labelHow": "How does  Cybermint Share work?",
-      "copyHow": "CYbermint Share uses the global IPFS network to enable people to share files directly with each other — no cloud or third-party server needed. And because files on IPFS are identified by what they contain, not where they're located, you can be sure what you download is the same content the sender intended.",
+      "labelHow": "How does  Cybermint Send work?",
+      "copyHow": "CYbermint Send uses the global IPFS network to enable people to share files directly with each other — no cloud or third-party server needed. And because files on IPFS are identified by what they contain, not where they're located, you can be sure what you download is the same content the sender intended.",
       "labelKeep": "Want to share these files with someone else?",
       "copyKeepPage": "You can be part of the IPFS network and share these files directly from your device simply by keeping this page open. Just share the link you received, and don't close this page until the recipient downloads the files.",
       "copyKeepDaemon": "You can share these files directly from your device simply by keeping your Cybermint IPFS node running. Just share the link you received, and be sure to keep your node running until the recipient downloads the files."    },
@@ -39,10 +39,10 @@
   },
   "modal": {
     "how": {
-      "title": "How Cybermint Share works",
-      "ariaLabel": "Modal explaining how IPFS Share works",
+      "title": "How Cybermint Send works",
+      "ariaLabel": "Modal explaining how Cybermint Send works",
       "copy": "IPFS CYbermint Share is a simple, free way to share files without needing to rely on services run by big corporations. Instead, it uses the peer-to-peer IPFS protocol for sharing directly between devices. IPFS is built around content addressing — keeping track of files based on what they contain, not where they're located — which means that files can't be modified without changing their addresses too. In other words, when you download a file using IPFS, you can be sure that it's exactly the same as the sender intended.",
-      "learnMore": "Learn how Cybermint IPFS is changing the internet by visiting the <1>IPFS website</1>. Curious about how content addressing works? Visit <3>ProtoSchool</3> for tutorials and other resources."
+      "learnMore": "Learn how Cybermint Send is changing the internet by visiting the <1>IPFS website</1>. Curious about how content addressing works? Visit <3>ProtoSchool</3> for tutorials and other resources."
     },
       "reprovide": {
       "title": "Re-sharing files you've received",
@@ -51,9 +51,9 @@
       "learnMore": "Curious how this works under the hood? Check out the <1>official IPFS documentation</1> for everything from basic explainers to developer tools."
     },
     "privacy": {
-      "title": "Sharing files on IPFS Cybermint",
-      "ariaLabel": "Modal describing sharing and privacy on IPFS Cybermint",
-      "copy": "This site uses IPFS Cybermint share, a peer-to-peer protocol for storing and sharing data directly between users without relying on cloud storage or other services run by big corporations. Because IPFS is a public network, when you share content using IPFS Share, you're enabling anyone who knows the unique CID in your share link to retrieve it. This means you should avoid sharing sensitive files or copyrighted material.",
+      "title": "Sharing files on Cybermint Send",
+      "ariaLabel": "Modal describing sharing and privacy on Cybermint Send",
+      "copy": "This site uses Cybermint Send share, a peer-to-peer protocol for storing and sharing data directly between users without relying on cloud storage or other services run by big corporations. Because IPFS is a public network, when you share content using Cybermint Send, you're enabling anyone who knows the unique CID in your share link to retrieve it. This means you should avoid sharing sensitive files or copyrighted material.",
       "learnMore": "Want to learn more about IPFS? Visit the <1>website</1> for the basics, or dig into the details of IPFS and privacy in the <3>official documentation</3>."
     },
     "cid": {
