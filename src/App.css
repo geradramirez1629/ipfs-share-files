@@ -4,7 +4,7 @@
 
 .App {
   background: rgb(0, 7, 10);
-  background: linear-gradient(120deg, rgba(2,46,68,1) 70%, rgb(248, 224, 2) 70%);
+  background: linear-gradient(120deg, rgba(2,46,68,1) 70%, rgba(248, 191, 2, 0.959) 70%);
 }
 
 @media (max-width: 60em) {
