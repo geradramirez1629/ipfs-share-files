@@ -30,12 +30,12 @@
     "learnMore": "Learn more."
   },
   "box": {
-    "missingDaemon": "Is your IPFS node running?",
-    "runningDaemon": "You need a <1>running node</1> to add files to IPFS.",
+    "missingDaemon": "Is your Cybermint Send node running?",
+    "runningDaemon": "You need a <1>running node</1> to add files to Cybermint Send.",
     "configureDaemon": "Make sure you <1>configure your IPFS API</1> to allow cross-origin (CORS) requests:",
     "runDaemon": "Then, start an IPFS daemon in your terminal:",
     "largeFilesWarning": "If you have issues downloading files larger than 1GB, installing <1>IPFS Desktop</1> or <3>IPFS Companion</3> can improve performance.",
-    "viewOnGateway": "View on IPFS"
+    "viewOnGateway": "View on Cybermint Send"
   },
   "modal": {
     "how": {
