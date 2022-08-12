@@ -1,6 +1,6 @@
 {
   "pageTitle": {
-    "ipfs": "IPFS Share",
+    "ipfs": "Cybermint Share",
     "add": "Share Files",
     "download": "Download Files"
   },
@@ -8,10 +8,10 @@
   "footer": "Licensed <1>CC-BY 3.0</1> except as <3>noted</3>",
   "info": {
     "add": {
-      "title": "Share files using IPFS",
+      "title": "Share files using CybermintCloud",
       "subtitle": "Share directly from your device — no cloud needed.",
       "labelAdd": "Add your files",
-      "copyAdd": "Add files to share them directly from your device over the IPFS network. Anyone with the unique code in your share link can download your files, so don't add sensitive or copyrighted material.",
+      "copyAdd": "Add files to share them directly from your device over the Cybermint network. Anyone with the unique code in your share link can download your files, so don't add sensitive or copyrighted material.",
       "labelKeepPage": "Keep this page open!",
       "labelKeepDaemon": "Keep your IPFS node running!",
       "copyKeepPage": "Because you're sharing directly from your device, it's important to keep this page open until the recipient downloads the files. If you're sharing with a group, others in the group can help you co-host the files by also keeping the share page open in their browsers.",
@@ -22,8 +22,8 @@
     "download": {
       "title": "You've got files!",
       "subtitle": "Download directly from the sender — no cloud needed.",
-      "labelHow": "How does IPFS Share work?",
-      "copyHow": "IPFS Share uses the global IPFS network to enable people to share files directly with each other — no cloud or third-party server needed. And because files on IPFS are identified by what they contain, not where they're located, you can be sure what you download is the same content the sender intended.",
+      "labelHow": "How does Cybermint Share work?",
+      "copyHow": "Cybermint Share uses the global Cybermint network to enable people to share files directly with each other — no cloud or third-party server needed. And because files on IPFS are identified by what they contain, not where they're located, you can be sure what you download is the same content the sender intended.",
       "labelKeep": "Want to share these files with someone else?",
       "copyKeepPage": "You can be part of the IPFS network and share these files directly from your device simply by keeping this page open. Just share the link you received, and don't close this page until the recipient downloads the files.",
       "copyKeepDaemon": "You can share these files directly from your device simply by keeping your IPFS node running. Just share the link you received, and be sure to keep your node running until the recipient downloads the files."    },
@@ -39,7 +39,7 @@
   },
   "modal": {
     "how": {
-      "title": "How IPFS Share works",
+      "title": "How Cybermint Share works",
       "ariaLabel": "Modal explaining how IPFS Share works",
       "copy": "IPFS Share is a simple, free way to share files without needing to rely on services run by big corporations. Instead, it uses the peer-to-peer IPFS protocol for sharing directly between devices. IPFS is built around content addressing — keeping track of files based on what they contain, not where they're located — which means that files can't be modified without changing their addresses too. In other words, when you download a file using IPFS, you can be sure that it's exactly the same as the sender intended.",
       "learnMore": "Learn how IPFS is changing the internet by visiting the <1>IPFS website</1>. Curious about how content addressing works? Visit <3>ProtoSchool</3> for tutorials and other resources."
