@@ -23,9 +23,9 @@
 }
 
 .dropdown-item-indicator.active {
-    background-color: #378085;
+    background-color: #faea0a;
 }
 
 .dropdown-item-indicator.active::after {
-    border-color: #378085
+    border-color: #faea0a
 }
